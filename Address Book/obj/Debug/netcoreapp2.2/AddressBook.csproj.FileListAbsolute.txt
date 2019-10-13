@@ -1,0 +1,14 @@
+C:\Users\svabo\source\repos\Address Book\Address Book\bin\Debug\netcoreapp2.2\AddressBook.deps.json
+C:\Users\svabo\source\repos\Address Book\Address Book\bin\Debug\netcoreapp2.2\AddressBook.runtimeconfig.json
+C:\Users\svabo\source\repos\Address Book\Address Book\bin\Debug\netcoreapp2.2\AddressBook.runtimeconfig.dev.json
+C:\Users\svabo\source\repos\Address Book\Address Book\bin\Debug\netcoreapp2.2\AddressBook.dll
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.csprojAssemblyReference.cache
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.RazorAssemblyInfo.cache
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.RazorAssemblyInfo.cs
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.AssemblyInfoInputs.cache
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.AssemblyInfo.cs
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.RazorTargetAssemblyInfo.cache
+C:\Users\svabo\source\repos\Address Book\Address Book\bin\Debug\netcoreapp2.2\AddressBook.pdb
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.dll
+C:\Users\svabo\source\repos\Address Book\Address Book\obj\Debug\netcoreapp2.2\AddressBook.pdb

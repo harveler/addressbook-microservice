@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "AddressBookAPI",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/AddressBook": {
+      "get": {
+        "tags": [
+          "AddressBook"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
